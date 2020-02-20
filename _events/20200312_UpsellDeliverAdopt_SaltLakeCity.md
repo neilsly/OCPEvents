@@ -6,5 +6,5 @@ event_url: https://aka.ms/M365PartnerEvent
 start_date: 2020-03-12
 end_date: 2020-03-13
 cost: Free
-topics: [ Microsoft Teams, Security, M365 ]
+topics: [ msteams, security, m365 ]
 ---
