@@ -1,7 +1,7 @@
 markdown: kramdown
 theme: jekyll-theme-minimal
-title: SouthCentralCommunity.com
-description: Information about the technology related groups and events in the TOLA Region (Texas, Oklahoma, Louisiana & Arkansas)
+title: OCP Events
+description: Information about partner facing events for MSUS OCP Partners
 google_analytics: UA-128027829-1
 
 collections:
