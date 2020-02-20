@@ -1,5 +1,5 @@
 ---
-state: MN
+state: OH
 region: Central
 title: Upsell, Deliver, Adpot M365 Using Teams & Security Cincinnati
 event_url: https://aka.ms/M365PartnerEvent

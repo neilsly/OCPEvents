@@ -1,0 +1,4 @@
+---
+abbr: MN
+title: Minnesota
+---
