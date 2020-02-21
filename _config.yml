@@ -1,5 +1,5 @@
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minimal
 title: OCP Events
 description: Information about partner facing events for MSUS OCP Partners
 google_analytics: UA-128027829-1
