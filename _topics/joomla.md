@@ -1,4 +1,0 @@
----
-slug: joomla
-title: Joomla
----

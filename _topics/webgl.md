@@ -1,4 +1,0 @@
----
-slug: webgl
-title: WebGL
----

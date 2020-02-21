@@ -1,4 +1,0 @@
----
-slug: servicenow
-title: ServiceNow
----

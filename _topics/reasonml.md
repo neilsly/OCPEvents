@@ -1,4 +1,0 @@
----
-slug: reasonml
-title: ReasonML
----

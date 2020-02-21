@@ -1,4 +1,0 @@
----
-slug: reactjs
-title: ReactJS
----

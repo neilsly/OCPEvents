@@ -1,4 +1,0 @@
----
-slug: cockroachdb
-title: CockroachDB
----

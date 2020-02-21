@@ -1,4 +1,0 @@
----
-slug: aws
-title: AWS
----

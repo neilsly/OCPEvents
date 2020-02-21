@@ -1,4 +1,0 @@
----
-slug: music
-title: Music
----

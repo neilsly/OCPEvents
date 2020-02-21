@@ -1,4 +1,0 @@
----
-slug: microcontroller
-title: Microcontroller
----

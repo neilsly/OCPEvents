@@ -1,4 +1,0 @@
----
-slug: tableau
-title: Tableau
----

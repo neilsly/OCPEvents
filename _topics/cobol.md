@@ -1,4 +1,0 @@
----
-slug: cobol
-title: COBOL
----

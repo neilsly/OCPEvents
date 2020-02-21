@@ -1,4 +1,0 @@
----
-slug: webvr
-title: WebVR
----

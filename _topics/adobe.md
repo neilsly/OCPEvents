@@ -1,4 +1,0 @@
----
-slug: adobe
-title: Adobe
----

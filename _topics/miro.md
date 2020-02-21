@@ -1,4 +1,0 @@
----
-slug: miro
-title: Miro
----

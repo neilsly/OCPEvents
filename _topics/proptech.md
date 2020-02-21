@@ -1,4 +1,0 @@
----
-slug: proptech
-title: PropTech
----
